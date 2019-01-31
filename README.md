@@ -1,8 +1,8 @@
 # CAL4809
 ATmega4809 TimeKeeping Module with MemoryLCD
 
-![PCB](img/CAL4809.jpg "CAL4809")
-![WATCH](img/CAL4809_Watch.jpg "CAL4809_Watch")
+![PCB](img/CAL4809.JPG "CAL4809")
+![WATCH](img/CAL4809_Watch.JPG "CAL4809_Watch")
 
 ----------
 
